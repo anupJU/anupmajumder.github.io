@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Al Amin Biswas
+title: Anup Majumder
 
 # # # Name pronunciation (optional)
 # name_pronunciation: Al Amin Biswas
